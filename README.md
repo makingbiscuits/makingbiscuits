@@ -4,7 +4,7 @@
 ### About me:
 
 - :brain: A research and analysis-focused person
-- 🔭 Looking or opportunities in the data analysis field
+- 🔭 Looking for opportunities in the data analysis field
 - 🌱 Currently learning data analysis in Turing College
 
 ### Tools & Technologies:
