@@ -5,7 +5,7 @@
 
 - :brain: A research and analysis-focused person
 - 🔭 Looking for opportunities in the data analysis field
-- 🌱 Currently learning data analysis in Turing College
+- 🌱 Currently learning data analysis at Turing College
 
 ### Tools & Technologies:
 
