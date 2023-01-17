@@ -3,9 +3,9 @@
 
 ### About me:
 
-- :brain: A research and analysis-focused person
-- 🔭 Looking for opportunities in the data analysis field
-- 🌱 Currently learning data analysis at Turing College
+- :brain: An organized, laid-back, research and analysis-focused person, always willing to learn more
+- 🔭 Looking for opportunities in the research, marketing, data analysis fields
+- 🌱 Learned data analysis at Turing College
 
 ### Tools & Technologies:
 
